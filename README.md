@@ -128,6 +128,6 @@ This document is a **test design**. Actual results, pass/fail status, and screen
 - [x] Document valid and invalid equivalence partitions with sample inputs and expected results.
 - [x] Complete a decision table and derive test cases.
 - [x] Identify states, events, valid/invalid transitions, and test cases.
-- [ ] Create a public GitHub repository named `AD361-Black-Box-Testing`.
-- [ ] Commit and push this `README.md`.
-- [ ] Verify the repository is public and submit its URL.
+- [x] Create a public GitHub repository named `AD361-Black-Box-Testing`.
+- [x] Commit and push this `README.md`.
+- [x] Verify the repository is public and submit its URL.
